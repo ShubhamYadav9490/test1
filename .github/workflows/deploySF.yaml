@@ -1,6 +1,0 @@
-name: Deploy Repos A and B
-'on':
-  push:
-    branches:
-      - '!main'
-      - featurebranch
